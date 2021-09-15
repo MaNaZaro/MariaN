@@ -1,0 +1,16 @@
+C:\Users\Мария\source\repos\лаб1\лаб1\bin\Debug\net5.0\лаб1.exe
+C:\Users\Мария\source\repos\лаб1\лаб1\bin\Debug\net5.0\лаб1.deps.json
+C:\Users\Мария\source\repos\лаб1\лаб1\bin\Debug\net5.0\лаб1.runtimeconfig.json
+C:\Users\Мария\source\repos\лаб1\лаб1\bin\Debug\net5.0\лаб1.runtimeconfig.dev.json
+C:\Users\Мария\source\repos\лаб1\лаб1\bin\Debug\net5.0\лаб1.dll
+C:\Users\Мария\source\repos\лаб1\лаб1\bin\Debug\net5.0\ref\лаб1.dll
+C:\Users\Мария\source\repos\лаб1\лаб1\bin\Debug\net5.0\лаб1.pdb
+C:\Users\Мария\source\repos\лаб1\лаб1\obj\Debug\net5.0\лаб1.csproj.AssemblyReference.cache
+C:\Users\Мария\source\repos\лаб1\лаб1\obj\Debug\net5.0\лаб1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\source\repos\лаб1\лаб1\obj\Debug\net5.0\лаб1.AssemblyInfoInputs.cache
+C:\Users\Мария\source\repos\лаб1\лаб1\obj\Debug\net5.0\лаб1.AssemblyInfo.cs
+C:\Users\Мария\source\repos\лаб1\лаб1\obj\Debug\net5.0\лаб1.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\лаб1\лаб1\obj\Debug\net5.0\лаб1.dll
+C:\Users\Мария\source\repos\лаб1\лаб1\obj\Debug\net5.0\ref\лаб1.dll
+C:\Users\Мария\source\repos\лаб1\лаб1\obj\Debug\net5.0\лаб1.pdb
+C:\Users\Мария\source\repos\лаб1\лаб1\obj\Debug\net5.0\лаб1.genruntimeconfig.cache
